@@ -12,7 +12,7 @@ public class Data {
         return "Moneda base: " + base_code + "\nTasas de conversión: " + conversion_rates;
     }
 
-    public void imprimirContenido() {
-        System.out.println(this.toString());
+    public Map<String, Double> getConversionRates() {
+        return conversion_rates;
     }
 }
