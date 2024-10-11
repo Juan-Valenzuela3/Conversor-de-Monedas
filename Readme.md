@@ -37,3 +37,5 @@ Este proyecto es un conversor de divisas que permite convertir entre varias mone
 ## Licencia
 
 - Este proyecto está licenciado bajo la [Licencia MIT](./LICENSE).
+
+![Interfaz conversor de moneda](./InterfazConversorMoneda.png)
